@@ -1,4 +1,4 @@
-"order-placed":[
+{"order-placed":[
   {
     "order_id": "47-353-1828",
     "customer_name": "Skylar Hartzogs",
@@ -274,4 +274,4 @@
     "prescription": "View",
     "status": "Placed"
   }
-]
+]}
